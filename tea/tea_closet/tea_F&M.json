@@ -1,0 +1,15 @@
+{
+  "name": "F&M",
+  "water_temp": "90",
+  "tea_ware": "则武 秘密花园",
+  "water_amount": "500",
+  "tea_weight": "5",
+  "add_milk": true,
+  "pour_count": 3,
+  "pour_times": [
+    30,
+    60,
+    60
+  ],
+  "created_time": "2025-10-12 13:49:10"
+}

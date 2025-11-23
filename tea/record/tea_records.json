@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1763884835401",
+    "tea_name": "馥颂1973",
+    "rating": 7,
+    "notes": "很好喝的",
+    "brewing_time": "2025-11-23 16:00:35",
+    "pour_count": 4,
+    "add_milk": false,
+    "image_filename": null,
+    "brewing_params": {
+      "pour_times": [
+        30,
+        60,
+        60,
+        64
+      ],
+      "intervals": []
+    }
+  },
+  {
+    "id": "1763884838543",
+    "tea_name": "馥颂1973",
+    "rating": 7,
+    "notes": "很好喝的",
+    "brewing_time": "2025-11-23 16:00:38",
+    "pour_count": 4,
+    "add_milk": false,
+    "image_filename": null,
+    "brewing_params": {
+      "pour_times": [
+        30,
+        60,
+        60,
+        64
+      ],
+      "intervals": []
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "大吉岭25春—Margaret's Hope",
+  "water_temp": "85",
+  "tea_ware": "柳宗易Ckassical",
+  "water_amount": "900",
+  "tea_weight": "15",
+  "add_milk": true,
+  "pour_count": 2,
+  "pour_times": [
+    30,
+    100
+  ],
+  "created_time": "2025-11-21 15:13:35"
+}

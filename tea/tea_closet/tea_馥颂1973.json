@@ -1,0 +1,16 @@
+{
+  "name": "馥颂1973",
+  "water_temp": "95",
+  "tea_ware": "Wedgwood Intaglio",
+  "water_amount": "450",
+  "tea_weight": "10",
+  "add_milk": false,
+  "pour_count": 4,
+  "pour_times": [
+    30,
+    60,
+    60,
+    64
+  ],
+  "created_time": "2025-11-21 15:10:13"
+}
